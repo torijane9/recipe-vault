@@ -1,0 +1,16 @@
+{
+  "recipeDirectory": "Meals",
+  "mealPlanNote": "Meal Plan",
+  "shoppingListNote": "Shopping List",
+  "recipeFormat": "RecipeMD",
+  "shoppingListIgnore": [
+    "salt",
+    "pepper",
+    "olive oil",
+    "garlic powder"
+  ],
+  "advancedIngredientParsing": false,
+  "shoppingListFormat": "{description} {quantity} {unitOfMeasure}",
+  "debugMode": false,
+  "startOfWeek": 1
+}

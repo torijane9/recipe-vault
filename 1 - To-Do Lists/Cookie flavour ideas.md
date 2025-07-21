@@ -1,0 +1,31 @@
+- almond croissant inspired
+- biscoff
+- double choc fudge brownie
+- cookies and cream
+- fererro rocher/nutella
+- smore
+- peanut butterr
+- oatmeal choc chip
+- red velvet
+- whittakers caramel
+- birthday cake stuffed and sprinkles
+- tiramisu
+- caramilk
+- dark chocolate dough smore
+- sea salt caramel
+- raspberry coconut white chocolate
+- pistachio white chocolate
+- choc malt malteaser
+- cafe latte
+- choc mint aero
+- churro inspired cinnamon sugar - made with browned butter
+- chocolate dough with biscoff
+- white chocolate funfetti
+- peanut buttercup
+- reeses pieces
+- m&ms
+- caramel oat
+- caramel coconut
+- macadamia white chocolate
+- gingerbread
+- maple walnut

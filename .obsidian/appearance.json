@@ -1,0 +1,12 @@
+{
+  "accentColor": "#58df93",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Calibri",
+  "textFontFamily": "Calibri",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "markdown file",
+    "default-text-styles"
+  ],
+  "cssTheme": ""
+}

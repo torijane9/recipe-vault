@@ -1,0 +1,25 @@
+---
+tags:
+  - element
+  - dietary_
+  - cuisine_type
+  - Easy
+Time: 
+Servings: 
+Prep Time: 
+Cook Time: 
+Dietary: 
+Cuisine Type: 
+Storage: 
+Tested?:
+---
+### Element Name 
+
+### Ingredients
+#ingredients 
+- [ ] 
+---
+#### Instructions
+1. First Step
+
+#### Notes:

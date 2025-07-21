@@ -1,0 +1,17 @@
+**Best Cocoa Brownies**
+Adapted from Alice Medrich’s [Bittersweet](http://www.amazon.com/gp/product/1579651607?ie=UTF8&tag=smitten-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1579651607)
+Makes 16 larger or 25 smaller brownies (the size you see pictured yielded 25)
+
+10 tablespoons (140 grams) unsalted butter
+1 1/4 cups (250 grams) sugar
+3/4 cup plus 2 tablespoons (65 grams, though some brands may weigh more) unsweetened cocoa powder (natural or Dutch-process)
+1/4 teaspoon salt (or a heaping 1/4 teaspoon flaky salt, as I used)
+1/2 teaspoon pure vanilla extract
+2 large eggs, cold
+1/2 cup (65 grams) all-purpose flour
+2/3 cup (75 grams) walnut or pecan pieces (optional)
+Position a rack in the lower third of the oven and preheat the oven to 325°F. Line the bottom and sides of an 8×8-inch square baking pan with parchment paper or foil, leaving an overhang on two opposite sides.
+Combine the butter, sugar, cocoa, and salt in a medium heatproof bowl and set the bowl in a wide skillet of barely simmering water. Stir from time to time until the butter is melted and the mixture is smooth and hot enough that you want to remove your finger fairly quickly after dipping it in to test. Remove the bowl from the skillet and set aside briefly until the mixture is only warm, not hot. It looks [fairly gritty](http://www.flickr.com/photos/smitten/4311320541/) at this point, but don’t fret — it smooths out once the eggs and flour are added. \[Note, many people who have tried this recipe have found that this step works just fine in the microwave. Couldn't test this because we don't have one, but it sounds like it would work.\]
+Stir in the vanilla with a wooden spoon. Add the eggs one at a time, stirring vigorously after each one. When the batter looks thick, shiny, and well blended, add the flour and stir until you cannot see it any longer, then beat vigorously for 40 strokes with the wooden spoon or a rubber spatula. Stir in the nuts, if using. Spread evenly in the lined pan.
+Bake until a toothpick plunged into the center emerges slightly moist with batter, 20 to 25 minutes is Medrich’s suggestion but it took me at least 10 minutes longer to get them set. Let cool completely on a rack. (I go further and throw mine in the fridge or freezer for a while; it’s the only way I can get them to cut with clean lines.)
+Lift up the ends of the parchment or foil liner, and transfer the brownies to a cutting board. Cut into 16 or 25 squares.

@@ -1,0 +1,12 @@
+- Peking duck dumplings or bao - versatile filling
+- Hoisin dipping sauce
+- Slow cooked pulled lamb
+- Almond croissant inspired cookies
+- Almond croissant inspired blondies
+- smore cookie dessert - a small tinfoil tray with a chocolate chip cookie chewy gooey base, chocolate layer or nutella layer topped with toasted marshmallows/marshmallow fluff
+- layered cake jars
+- lemon curd panna cotta with biscoff cookie base
+- ultimate brownie recipe - and loaded brownie boat recipes
+- tres leches cake - to put in single/double serve containers - 1 litre ice cream tub kinda containers
+- almond croissant scrolls - with danish pastry
+- 
