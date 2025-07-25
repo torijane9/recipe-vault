@@ -1,5 +1,3 @@
-# Untitled Note
-
 Pink Moscato Punch
 
 1-2 Bottles Pink Moscato

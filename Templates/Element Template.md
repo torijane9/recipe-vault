@@ -4,7 +4,6 @@ tags:
   - dietary_
   - cuisine_type
   - Easy
-Time: 
 Servings: 
 Prep Time: 
 Cook Time: 

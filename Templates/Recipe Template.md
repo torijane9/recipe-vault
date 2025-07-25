@@ -4,7 +4,6 @@ tags:
   - cuisine_type
   - main_ingredient_
   - season_
-Time: 
 Servings: 
 Prep Time: 
 Cook Time: 
