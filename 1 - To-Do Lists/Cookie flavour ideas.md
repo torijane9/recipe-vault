@@ -4,7 +4,7 @@
 - cookies and cream
 - fererro rocher/nutella
 - smore
-- peanut butterr
+- peanut butter
 - oatmeal choc chip
 - red velvet
 - whittakers caramel
@@ -29,3 +29,5 @@
 - macadamia white chocolate
 - gingerbread
 - maple walnut
+- brown butter
+- gingerbread nyc cookie with white chocolate chips

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elements/Vegetables/Pickled Red Onions.md",
+                "file": "1 - To-Do Lists/Cookie flavour ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pickled Red Onions"
+              "title": "Cookie flavour ideas"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 257.5
   },
   "right": {
     "id": "0266bbf922fda4f2",
@@ -265,6 +265,26 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "e82fb744e731d092",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5e28f1fad284268d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 5
@@ -290,33 +310,33 @@
   },
   "active": "799729c07f3a45eb",
   "lastOpenFiles": [
-    "Meals/Breakfast/Ultimate Salmon Bagel.md",
-    "Elements/Vegetables/Pickled Red Onions.md",
-    "Elements/Savoury Fillings/Classic Bagel Schmear.md",
-    "Elements/Savoury Fillings/Hot Smoked Salmon Bagel Schmear.md",
-    "Elements/Savoury Fillings/Bagel Schmear 1 1.md",
-    "Elements/Savoury Fillings/Bagel Schmear.md",
-    "1 - To-Do Lists/Recipes to Develop.md",
-    "Templates/Recipe Template.md",
-    "Drinks/Cocktail recipes/Pink Moscato Punch.md",
-    "Meals/Dessert/S'mores Dipping Dessert.md",
+    "Elements/Breads, Batters & Doughs/Focaccia Dough.md",
     "Elements/Breads, Batters & Doughs/Salty-Sweet Malted Cookie Bars.md",
-    "Elements/Breads, Batters & Doughs/Untitled.md",
-    "Elements/Protein/Slow-Cooked Pulled Lamb.md",
-    "Meals/Baking/Almond Croissant Scrolls.md",
-    "Elements/Sweet Fillings/Frangipane Filling.md",
+    "1 - To-Do Lists/Cookie flavour ideas.md",
+    "Elements/Grains and Nuts/Coconut Rice.md",
+    "1 - To-Do Lists/Recipes to Develop.md",
+    "Elements/Breads, Batters & Doughs/Ultimate Cookie Base Recipe.md",
+    "Meals/Dinner/Ham Hock Bean Soup.md",
     "1 - To-Do Lists/Recipes to Add.md",
-    "Elements/Savoury Fillings/Peking Duck-Inspired Filling.md",
-    "Elements/Sauces & Dressings/Hoisin Dipping Sauce.md",
-    "Elements/Savoury Fillings",
-    "Meals/Dessert/Easy No-Churn Ice Cream.md",
-    "Elements/Protein/Soy & Ginger Boneless Short Ribs.md",
-    "Elements/Sauces & Dressings/Soy Chilli Dipping Sauce.md",
+    "Meals/Snacks/Muesli Fridge Slice.md",
+    "Meals/Dinner/Potato Leek Soup.md",
+    "Meals/Dinner/Cannellini Bean Soup.md",
+    "Meals/Breakfast/Sweet Coconut Breakfast Rice Porridge.md",
+    "Meals/Baking/Tres Leches Cake.md",
+    "Elements/Breads, Batters & Doughs/Ultimate Brownie Recipe.md",
+    "Meals/Dessert/Lemon Curd Panna Cotta with Biscoff Cookie Base.md",
+    "Meals/Dessert/Layered Cake Jars.md",
+    "Meals/Baking/Almond Croissant Inspired Blondies.md",
+    "Meals/Baking/Almond Croissant Inspired Cookies.md",
+    "Meals/Dessert/Moo-llennium Crunch Ice Cream.md",
+    "Elements/Grains and Nuts/Caramelised Butter Pecans.md",
+    "Meals/Snacks/Chocolate Covered Dates.md",
+    "Elements/Protein/Tofu Mince.md",
+    "Meals/Dinner/Tofu Pasta Bake.md",
+    "Meals/Dinner/Dumplings.md",
+    "Elements/Breads, Batters & Doughs/Dumpling Wrappers.md",
     "Meals/Dinner/Soy & Ginger Boneless Short Rib Bao Buns.md",
-    "Meals/Lunch/Spring Onion Pancake Rolls with Sticky Pork.md",
-    "Elements/Breads, Batters & Doughs/Spring Onion Pancakes.md",
-    "Elements/Breads, Batters & Doughs/Steamed Bao Buns.md",
-    "Elements/Protein/Sticky Pork.md",
+    "Elements/Savoury Fillings",
     "Elements/Fruit",
     "Meals/Salads",
     "1 - To-Do Lists",
