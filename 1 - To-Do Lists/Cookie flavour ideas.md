@@ -27,7 +27,6 @@
 - caramel oat
 - caramel coconut
 - macadamia white chocolate
-- gingerbread
 - maple walnut
 - brown butter
 - gingerbread nyc cookie with white chocolate chips
