@@ -1,14 +1,14 @@
-- [[Almond croissant inspired cookies]]
-- [[Almond croissant inspired blondies]]
-- [[layered cake jars]]
-- [[lemon curd panna cotta with biscoff cookie base]]
+- [[Almond Croissant Inspired Cookies]]
+- [[Almond Croissant Inspired Blondies]]
+- [[Layered Cake Jars]]
+- [[Lemon Curd Panna Cotta with Biscoff Cookie Base]]
 - [[ultimate brownie recipe]] - and loaded brownie boat recipes
-- [[tres leches cake]] - to put in single/double serve containers - 1 litre ice cream tub kinda containers
+- [[Tres Leches Cake]] - to put in single/double serve containers - 1 litre ice cream tub kinda containers
 - [[Sweet Coconut Breakfast Rice Porridge]]
-- [[easy no-churn ice cream]] with different fillings
-- [[Ham hock bean soup]]
+- [[Easy No-Churn Ice Cream]] with different fillings
+- [[Ham Hock Bean Soup]]
 - [[Cannellini Bean Soup]]
 - [[Potato Leek Soup]]
-- [[Muesli fridge slice]]
+- [[Muesli Fridge Slice]]
 - Cereal milk and peaches cheesecake with cornflake crust
 - Shortbread

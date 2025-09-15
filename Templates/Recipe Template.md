@@ -1,23 +1,18 @@
 ---
-tags:
-  - meal
-  - cuisine_type
-  - main_ingredient_
-  - season_
-Servings: 
-Prep Time: 
-Cook Time: 
-Dietary: 
-Cuisine Type: 
-Tested?:
+Tags:
+Cuisine: <% tp.system.prompt("Cuisine", "Global") %>
+Makes: <% tp.system.prompt("Makes") %>
+Prep Time: <% tp.system.prompt("Preparation Time") %>
+Cook Time: <% tp.system.prompt("Cooking Time") %>
+Tested?: <% tp.system.prompt("Tested?") %>
 ---
-### Recipe Name 
+## <% tp.file.title %>
 
 ### Ingredients
-#ingredients 
 - [ ] 
 ---
-#### Instructions
-1. First Step
+### Instructions
+1. 
 
-#### Notes:
+#### Notes
+- 

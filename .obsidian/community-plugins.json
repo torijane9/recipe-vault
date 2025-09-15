@@ -15,5 +15,7 @@
   "dataview",
   "obsidian-checklist-plugin",
   "cooklang-viewer-and-editor",
-  "obsidian-importer"
+  "obsidian-importer",
+  "templater-obsidian",
+  "quickadd"
 ]

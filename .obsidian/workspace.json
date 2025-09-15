@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elements/Protein/Vietnamese Braised Pork Belly.md",
+                "file": "Elements/Sauces & Dressings/Chipotle Sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vietnamese Braised Pork Belly"
+              "title": "Chipotle Sauce"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:slice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,6 +285,46 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "a9a3955372f1573a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5529100c94bede80",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1cb353ad624c3ba0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3f4fd8695319ef3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 5
@@ -296,6 +336,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -305,47 +346,48 @@
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
       "recipe-view:Toggle recipe view": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "799729c07f3a45eb",
   "lastOpenFiles": [
-    "Elements/Protein/Pulled Pork.md",
-    "Elements/Protein/Vietnamese Braised Pork Belly.md",
-    "Elements/Protein/Chermoula Roast Chicken.md",
-    "Elements/Vegetables/Coleslaw Base.md",
-    "Elements/Protein/Honey Lime Grilled Salmon.md",
-    "Elements/Vegetables/Avocado Cucumber Salsa.md",
-    "Elements/Vegetables/Pickled Red Onions.md",
-    "Elements/Pasta & Rice/Coconut Lime Rice Variation.md",
-    "Elements/Pasta & Rice/Toasted Coconut Rice Variation.md",
-    "Elements/Pasta & Rice/Coconut Rice.md",
-    "Elements/Sauces & Dressings/Teriyaki Sauce.md",
+    "Elements/Pasta & Rice/Middle Eastern Pilaf Rice.md",
+    "Elements/Sauces & Dressings/Chipotle Sauce.md",
+    "Meals/Breakfast/Cornbread Corn Fritters.md",
     "Elements/Breads, Batters & Doughs/Cornbread Corn Fritters.md",
-    "Elements/Fruit/Red Wine Cassis Pears.md",
-    "Elements/Protein/Five-spice Roast Pork Belly.md",
-    "Elements/Breads, Batters & Doughs/Focaccia Dough.md",
-    "Elements/Breads, Batters & Doughs/Herbed Mini Pancakes.md",
-    "Meals/Salads/Thai-Inspired Chicken Salad.md",
-    "Elements/Sauces & Dressings/Tangy Fish Sauce Dressing.md",
-    "Meals/Dinner/Fish Parcels with Coconut Rice.md",
-    "Meals/Baking/Ultimate Lemon Syrup Cake.md",
-    "Meals/Baking/Coconut Jam Slice.md",
-    "Meals/Dessert/Lemon Cheesecake.md",
-    "Meals/Dessert/Chocolate Meringue Layered Berry Cake.md",
-    "Meals/Special Occasions/Smoked Salmon Blinis.md",
-    "Elements/Seasoning Blends & Dredges/Roy's Memphis Dust.md",
-    "Meals/Baking/Devil's Food Cake.md",
+    "Drinks/Cold/Mango Coconut Sago.md",
+    "Drinks/Boozy/Frozen Mango Coconut Daquiri.md",
+    "Drinks/Boozy/Strawberry and Peach Wine Slushies.md",
+    "Drinks/Cold/Hibiscus Lemon-or-Lime-Ade.md",
+    "Elements/Drink Syrups/Limeade Syrup.md",
+    "Elements/Drink Syrups/Lemonade Syrup.md",
+    "Drinks/Cold/Blackberry Limeade.md",
+    "Elements/Drink Syrups/Cardamom Lime Sugar Syrup.md",
+    "Elements/Toppings & Garnishes/Berry Ice Cubes.md",
+    "Drinks/Boozy/Cherry Moscato Slush.md",
+    "Drinks/Boozy/Peach Wine Slush.md",
+    "Templates/Recipe Template.md",
+    "Drinks/Boozy/Mango Coconut Crush.md",
+    "Elements/Drink Syrups/Mango Puree.md",
+    "Drinks/Boozy/Frozen Lemon Cocktail.md",
+    "Elements/Drink Syrups/Hibiscus Syrup.md",
+    "Drinks/Boozy/Hibiscus Tequila Cocktail.md",
+    "Drinks/Boozy/Spiked Frozen Cherry Cola.md",
+    "Drinks/Boozy/Dark 'n' Stormy Cocktail.md",
+    "Elements/Grains, Nuts, and Beans/Tahini Granola.md",
+    "Elements/Drink Syrups",
+    "Drinks/Shake",
+    "Drinks/Cold",
+    "Drinks/Frozen",
+    "Drinks/Hot",
+    "Drinks/Dairy",
+    "Drinks/Smoothie",
+    "Drinks/Boozy",
+    "Elements/Grains, Nuts, and Beans/Granola.md",
+    "Elements/Pasta & Rice/Toasted Coconut Rice Variation.md",
+    "Elements/FolderList.txt",
     "Elements/Savoury Fillings",
-    "Elements/Fruit",
-    "Meals/Salads",
-    "1 - To-Do Lists",
-    "Elements/Sweet Sauces",
-    "Drinks",
-    "Elements/Sweet Fillings",
-    "Elements/Soups, Stocks, & Broths",
-    "Meals/Baking",
-    "Elements/Preserves + Pickles",
     "Original Writing/Untitled Urban Fantasy Novel/Planning/Characters/Relationships/Mira's Relationships.canvas",
     "Obsidian-Writing-Vault-Template-master/30 Personnages/Relations.canvas",
     "Backup From Evernote/old uni poems/_resources/Untitled_Note.7.resources/unknown_filename.png",
