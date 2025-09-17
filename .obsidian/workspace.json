@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Meal Plan Template.md",
+                "file": "Meals/Breakfast/Egg and Hashbrown Breakfast Sandwiches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meal Plan Template"
+              "title": "Egg and Hashbrown Breakfast Sandwiches"
             }
           }
         ]
@@ -353,9 +353,11 @@
   "active": "799729c07f3a45eb",
   "lastOpenFiles": [
     "Templates/Prep Template.md",
-    "Templates/Daily Cooking and Assembly Instructions Template.md",
     "Templates/Grocery List Template.md",
     "Templates/Meal Plan Template.md",
+    "Templates/Recipe Template.md",
+    "Meals/Breakfast/Egg and Hashbrown Breakfast Sandwiches.md",
+    "Templates/Daily Cooking and Assembly Instructions Template.md",
     "Meals/Dinner/Birria Tacos.md",
     "Elements/Protein/Birria Beef.md",
     "Elements/Marinades & Braising/Birria Braising Sauce Base.md",
@@ -376,8 +378,6 @@
     "Meals/Dinner/Yellow Coconut Curry with Basmati Rice.md",
     "Meals/Dinner/Spiced Feta Meatball Flatbread.md",
     "Elements/Pasta & Rice/Middle Eastern Pilaf Rice.md",
-    "Meals/Breakfast/Cornbread Corn Fritters.md",
-    "Elements/Breads, Batters & Doughs/Cornbread Corn Fritters.md",
     "Elements/Drink Syrups",
     "Drinks/Shake",
     "Drinks/Cold",

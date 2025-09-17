@@ -1,4 +1,4 @@
-### Weekly Meal Plan: Asian-Inspired Freshness with Flexible Components
+### Example Weekly Meal Plan: Asian-Inspired Freshness with Flexible Components
 
 **Theme:** This week focuses on vibrant Southeast Asian and Japanese flavours, utilising versatile prepped components to create diverse meals with minimal daily effort. We're leaning into fresh produce and adaptable proteins.
 
@@ -7,9 +7,9 @@
 ---
 
 **Monday**
-*   **Breakfast (Lia):** Sweet Coconut Breakfast Rice Porridge with fresh mango.
+*   **Breakfast (Lia):** Egg and Hashbrown Breakfast Sandwiches
 *   **Breakfast (Tori):** Nutty Muesli Clusters with Greek yoghurt.
-*   **Lunch (Both - at home):** Leftover Vietnamese Salad Bowls (pork for Tori, salmon/tofu for Lia) with fresh herbs.
+*   **Lunch (Both - Lia at home, Tori at work):** Leftover Vietnamese Salad Bowls (pork for Tori, salmon/tofu for Lia) with fresh herbs.
 *   **Dinner (Shared):** Honey Lime Grilled Salmon (Lia) / Five-Spice Roast Pork Belly (Tori) with Toasted Coconut Rice and a quick stir-fried greens side.
 
 **Tuesday**
