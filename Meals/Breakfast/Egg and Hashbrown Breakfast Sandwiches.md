@@ -9,11 +9,12 @@ Tested?: Yes
 ## Egg and Hashbrown Breakfast Sandwiches
 
 ### Ingredients
+- [ ] [[English Muffins]]
 - [ ] Fried egg
 - [ ] Hash brown
 - [ ] Sauce of choice
 - [ ] Cheese slice
-- [ ] English muffin
+- [ ] 
 ---
 ### Instructions
 1. 

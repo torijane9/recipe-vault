@@ -19,7 +19,7 @@ Tested?: Yes
 - [ ] 1 cup buttermilk
 - [ ] 2 large eggs
 - [ ] 1/4 cup melted butter
-- [ ] 1 can corn (creamed or kernels, if kernels then drain the liquid)
+- [ ] 1 can creamed corn 
 - [ ] 1/4 cup finely chopped jalapeños (optional)
 - [ ] Neutral oil for frying
 ---

@@ -1,12 +1,12 @@
 ---
 Tags:
-Cuisine: Taiwanese
+Cuisine: Global
 Makes: 
 Prep Time: 
 Cook Time: 
 Tested?: Yes
 ---
-## Mango Coconut Sago
+## Cheese Scones
 
 ### Ingredients
 - [ ] 

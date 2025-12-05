@@ -17,7 +17,7 @@ Tested?: Yes
 - [ ] 2 1/4 cups jasmine rice
 - [ ] 1/4 cup granulated sugar
 - [ ] 1 Tbsp kosher salt
-- [ ] 1 cup boiling water
+- [ ] 1 cup hot water
 - [ ] 1 can full fat coconut milk
 ---
 #### Instructions

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meals/Breakfast/Egg and Hashbrown Breakfast Sandwiches.md",
+                "file": "Drinks/Cold/Mango Coconut Sago.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Egg and Hashbrown Breakfast Sandwiches"
+              "title": "Mango Coconut Sago"
             }
           }
         ]
@@ -325,6 +325,36 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "4b688e150f33ddf9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "009dd0c0f9119e20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8e4f5e8416a04883",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 5
@@ -352,32 +382,32 @@
   },
   "active": "799729c07f3a45eb",
   "lastOpenFiles": [
-    "Templates/Prep Template.md",
-    "Templates/Grocery List Template.md",
-    "Templates/Meal Plan Template.md",
-    "Templates/Recipe Template.md",
-    "Meals/Breakfast/Egg and Hashbrown Breakfast Sandwiches.md",
-    "Templates/Daily Cooking and Assembly Instructions Template.md",
-    "Meals/Dinner/Birria Tacos.md",
-    "Elements/Protein/Birria Beef.md",
-    "Elements/Marinades & Braising/Birria Braising Sauce Base.md",
+    "Drinks/Cold/Iced Matcha Latte.md",
+    "Drinks/Cold/Copycat Vanilla Sweet Cream.md",
+    "Drinks/Cold/Copycat Non-Dairy Vanilla Sweet Cream.md",
+    "Meals/Dinner/Cheeseburger Egg Rolls.md",
+    "Drinks/Cold/Mango Coconut Matcha.md",
+    "Elements/Breads, Batters & Doughs/Fry Bread.md",
+    "Elements/Breads, Batters & Doughs/Pizza Dough.md",
+    "Elements/Sauces & Dressings/Flavoured Mayonnaises.md",
+    "Elements/Sauces & Dressings/Tartare Sauce.md",
+    "Elements/Sauces & Dressings/Mayonnaise From Scratch.md",
+    "Elements/Sauces & Dressings/Creamy Mexican Dressing.md",
     "Elements/Sauces & Dressings/Chipotle Sauce.md",
-    "Elements/Protein/Chicken Tinga.md",
-    "Elements/Sauces & Dressings/Untitled.md",
-    "Elements/Protein/Garlic Sage Meatballs.md",
-    "Meals/Lunch/Burrito Bowls.md",
-    "Elements/Sauces & Dressings/Coriander Lime Dressing.md",
-    "Elements/Vegetables/Pickled Jalapenos and Red Onions.md",
-    "Elements/Marinades & Braising/Tinga Braising Sauce.md",
-    "Meals/Dinner/Butternut Squash Soup.md",
-    "Elements/Vegetables/Butternut Squash Purée.md",
-    "Elements/Sauces & Dressings/Tahini Date Dressing.md",
-    "Elements/Protein/Chicken Pie Filling.md",
-    "Elements/Soups, Stocks, & Broths/30-Minute Cheat Rotisserie Chicken Stock.md",
-    "Elements/Soups, Stocks, & Broths/Yellow Coconut Curry Base.md",
-    "Meals/Dinner/Yellow Coconut Curry with Basmati Rice.md",
-    "Meals/Dinner/Spiced Feta Meatball Flatbread.md",
+    "Meals/Salads/Thai-Inspired Chicken Salad.md",
+    "Elements/Pasta & Rice/Coconut Rice.md",
+    "Elements/Pasta & Rice/Coconut Lime Rice Variation.md",
+    "Meals/Dessert/Lemon Amaretti Cheesecake.md",
+    "Meals/Dessert/Tiramisu Cheesecake.md",
+    "Meals/Breakfast/Cornbread Corn Fritters.md",
+    "Elements/Drink Syrups/Hibiscus Syrup.md",
+    "Elements/Vegetables/Avocado Cucumber Salsa.md",
+    "Elements/Protein/Honey Lime Grilled Salmon.md",
+    "Elements/Pasta & Rice/Toasted Coconut Rice Variation.md",
     "Elements/Pasta & Rice/Middle Eastern Pilaf Rice.md",
+    "Meals/Baking/Snowball Cookies.md",
+    "Elements/Breads, Batters & Doughs/English Muffins.md",
+    "Meals/Breakfast/Egg and Hashbrown Breakfast Sandwiches.md",
     "Elements/Drink Syrups",
     "Drinks/Shake",
     "Drinks/Cold",

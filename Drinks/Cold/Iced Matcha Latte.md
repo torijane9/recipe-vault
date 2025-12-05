@@ -1,13 +1,12 @@
 ---
 Tags:
-Cuisine: Mexican
-Servings:
+Cuisine: Japanese
+Makes:
 Prep Time:
 Cook Time:
 Tested?: Yes
 ---
-
-## Grilled Street Corn Salad
+## Iced Matcha Latte
 
 ### Ingredients
 - [ ] 
