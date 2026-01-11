@@ -7,6 +7,10 @@ quartz/public/
 quartz/.quartz-cache/
 quartz/.cache/
 quartz/docs/
+quartz/quartz/content/
+quartz/quartz/node_modules/
+quartz/quartz/public/
+
 
 # Optional: Obsidian settings (recommended)
 .obsidian/
