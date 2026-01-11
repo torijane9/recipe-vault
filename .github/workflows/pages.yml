@@ -28,7 +28,7 @@ jobs:
 
       - name: Install dependencies
         working-directory: quartz
-        run: npm ci
+        run: npm install
 
       # Create a Linux symlink so Quartz can read your vault from the repo root
       - name: Link content
