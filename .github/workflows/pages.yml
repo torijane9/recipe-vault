@@ -30,7 +30,6 @@ jobs:
         working-directory: quartz/quartz
         run: npm install
 
-      # Create the content link Quartz expects (on Linux runners)
       - name: Link content
         run: |
           rm -rf quartz/quartz/content
