@@ -1,0 +1,16 @@
+# Don't track Quartz content link (junction/symlink)
+quartz/content/
+
+# Quartz build/deps
+quartz/node_modules/
+quartz/public/
+quartz/.quartz-cache/
+quartz/.cache/
+quartz/docs/
+
+# Optional: Obsidian settings (recommended)
+.obsidian/
+
+# OS junk
+.DS_Store
+Thumbs.db

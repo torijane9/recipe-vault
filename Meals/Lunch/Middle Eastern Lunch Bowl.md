@@ -13,7 +13,7 @@ Tested?: No
 - [ ] roasted chickpeas
 - [ ] green harissa
 - [ ] kale
-- [ ] [[Sumac Red Onions]]
+- [ ] [[Pickled Red Onions]]
 - [ ] red cabbage
 - [ ] dukkah/zataar
 - [ ] hummus
