@@ -27,21 +27,23 @@ jobs:
           node-version: "20"
 
       - name: Install dependencies
-        working-directory: quartz
+        working-directory: quartz/quartz
         run: npm install
 
-      # Create a Linux symlink so Quartz can read your vault from the repo root
+      # Create the content link Quartz expects (on Linux runners)
       - name: Link content
-        run: ln -s .. quartz/content
+        run: |
+          rm -rf quartz/quartz/content
+          ln -s ../.. quartz/quartz/content
 
       - name: Build Quartz
-        working-directory: quartz
+        working-directory: quartz/quartz
         run: npx quartz build -d content
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: quartz/public
+          path: quartz/quartz/public
 
   deploy:
     runs-on: ubuntu-latest
