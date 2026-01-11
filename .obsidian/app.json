@@ -1,9 +1,0 @@
-{
-  "alwaysUpdateLinks": true,
-  "autoPairBrackets": false,
-  "newFileLocation": "root",
-  "readableLineLength": true,
-  "strictLineBreaks": true,
-  "livePreview": true,
-  "smartIndentList": true
-}
