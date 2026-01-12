@@ -1,3 +1,238 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* --- Tori tweaks: soft pastel + recipe-card feel --- */
+/* Paste at the bottom of custom.scss */
+
+:root {
+  /* Softer rounded corners across the site */
+  --tori-radius: 14px;
+
+  /* Card styling */
+  --tori-card-border: rgba(120, 120, 140, 0.18);
+  --tori-card-shadow: 0 10px 30px rgba(20, 20, 30, 0.10);
+
+  /* Accent colours (pastel-ish) */
+  --tori-accent-light: #7c5cff; /* lavender */
+  --tori-accent-dark: #9aa7ff;  /* softer lavender for dark */
+}
+
+/* Slightly more "recipe friendly" reading defaults */
+body {
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+/* Make the main content feel like a card */
+main, .content, article {
+  border-radius: var(--tori-radius);
+}
+
+/* Card background + border + shadow
+   (Quartz classnames vary a bit; we target a few common ones) */
+article,
+main article,
+.content,
+.page {
+  background: rgba(255, 255, 255, 0.65);
+  border: 1px solid var(--tori-card-border);
+  box-shadow: var(--tori-card-shadow);
+  backdrop-filter: blur(8px);
+}
+
+/* Dark mode version of the card background */
+html[data-theme="dark"] article,
+html[data-theme="dark"] main article,
+html[data-theme="dark"] .content,
+html[data-theme="dark"] .page {
+  background: rgba(25, 25, 35, 0.55);
+  border: 1px solid rgba(170, 170, 200, 0.14);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+/* Soften the overall page background a touch */
+body {
+  background: linear-gradient(180deg, rgba(124, 92, 255, 0.06), transparent 35%);
+}
+
+html[data-theme="dark"] body {
+  background: linear-gradient(180deg, rgba(154, 167, 255, 0.08), transparent 40%);
+}
+
+/* Pastel link colour + nicer hover */
+a {
+  color: var(--tori-accent-light);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+html[data-theme="dark"] a {
+  color: var(--tori-accent-dark);
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+/* Headings: a touch cleaner */
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+/* Lists in recipes: more comfortable spacing */
+li {
+  margin: 0.25rem 0;
+}
+
+/* Optional: make inline code a bit softer (nice for measurements/temps if you ever use it) */
+code {
+  border-radius: 8px;
+}
+/* --- Patch: improve spacing, make cards subtler, fix dark mode, switch to pink accents --- */
+
+/* Pink accents */
+:root {
+  --tori-accent-light: #d64f8a; /* raspberry pink */
+  --tori-accent-dark:  #ff7bb4; /* brighter pink for dark mode */
+}
+
+/* Make card effect subtler */
+:root {
+  --tori-card-shadow: 0 8px 24px rgba(20, 20, 30, 0.08);
+  --tori-card-border: rgba(120, 120, 140, 0.14);
+}
+
+/* Add breathing room inside the "card" */
+article,
+main article,
+.content,
+.page {
+  padding: 1.25rem;
+}
+
+/* If padding makes the layout feel too wide, we can reduce later to 1rem */
+
+/* Softer link styling (and avoid the default blue-purple) */
+a {
+  color: var(--tori-accent-light);
+}
+
+a:visited {
+  color: color-mix(in oklab, var(--tori-accent-light), #6b2a4a 35%);
+}
+
+a:hover {
+  color: color-mix(in oklab, var(--tori-accent-light), #ffffff 10%);
+}
+
+/* Dark mode selector robustness:
+   Quartz might use one of these patterns depending on version/theme. */
+html[data-theme="dark"],
+html.dark,
+body.dark,
+:root[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+/* Dark mode: force readable page + card backgrounds and text colour */
+html[data-theme="dark"] body,
+html.dark body,
+body.dark,
+:root[data-theme="dark"] body {
+  background: linear-gradient(180deg, rgba(255, 123, 180, 0.10), transparent 42%);
+  color: rgba(245, 245, 250, 0.92);
+}
+
+/* Dark mode card containers */
+html[data-theme="dark"] article,
+html[data-theme="dark"] main article,
+html[data-theme="dark"] .content,
+html[data-theme="dark"] .page,
+html.dark article,
+html.dark main article,
+html.dark .content,
+html.dark .page,
+body.dark article,
+body.dark main article,
+body.dark .content,
+body.dark .page,
+:root[data-theme="dark"] article,
+:root[data-theme="dark"] main article,
+:root[data-theme="dark"] .content,
+:root[data-theme="dark"] .page {
+  background: rgba(18, 18, 24, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.38);
+}
+
+/* Dark mode links */
+html[data-theme="dark"] a,
+html.dark a,
+body.dark a,
+:root[data-theme="dark"] a {
+  color: var(--tori-accent-dark);
+}
+
+/* Make checkboxes + scrollbar match dark mode better (where supported) */
+html[data-theme="dark"],
+html.dark,
+body.dark,
+:root[data-theme="dark"] {
+  accent-color: var(--tori-accent-dark);
+}
+
+/* Optional scrollbar styling (Chrome/Edge) */
+html[data-theme="dark"] ::-webkit-scrollbar,
+html.dark ::-webkit-scrollbar,
+body.dark ::-webkit-scrollbar,
+:root[data-theme="dark"] ::-webkit-scrollbar {
+  width: 12px;
+}
+
+html[data-theme="dark"] ::-webkit-scrollbar-thumb,
+html.dark ::-webkit-scrollbar-thumb,
+body.dark ::-webkit-scrollbar-thumb,
+:root[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: rgba(255, 123, 180, 0.25);
+  border-radius: 999px;
+}
+/* --- Dark mode selector fix (Quartz uses saved-theme="dark") --- */
+
+html[saved-theme="dark"] {
+  color-scheme: dark;
+}
+
+/* Dark mode: overall page */
+html[saved-theme="dark"] body {
+  background: linear-gradient(180deg, rgba(255, 123, 180, 0.10), transparent 42%);
+  color: rgba(245, 245, 250, 0.92);
+}
+
+/* Dark mode: card containers */
+html[saved-theme="dark"] article,
+html[saved-theme="dark"] main article,
+html[saved-theme="dark"] .content,
+html[saved-theme="dark"] .page {
+  background: rgba(18, 18, 24, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.38);
+}
+
+/* Dark mode: links + form accents (checkboxes etc.) */
+html[saved-theme="dark"] a {
+  color: var(--tori-accent-dark);
+}
+
+html[saved-theme="dark"] {
+  accent-color: var(--tori-accent-dark);
+}
+
+/* Optional scrollbar styling (Chrome/Opera/Edge) */
+html[saved-theme="dark"] ::-webkit-scrollbar {
+  width: 12px;
+}
+
+html[saved-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: rgba(255, 123, 180, 0.25);
+  border-radius: 999px;
+}
