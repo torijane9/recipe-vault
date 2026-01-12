@@ -8,13 +8,11 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Recipe Vault",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-GB",
     baseUrl: "torijane9.github.io/recipe-vault",
     ignorePatterns: [".obsidian", "Templates", "quartz", ".git", ".github", "node_modules", "private", "templates"],
@@ -23,8 +21,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Roboto Mono",
+        body: "Open Sans",
         code: "IBM Plex Mono",
       },
       colors: {
