@@ -31,25 +31,25 @@ Use **search** (top) if you know what you’re after, or browse below.
 Click a tag to see everything labelled with it:
 
 ### Planning & prep
-- [[tags/meal-prep|#meal-prep]]
-- [[tags/make-ahead|#make-ahead]]
-- [[tags/freezer-friendly|#freezer-friendly]]
-- [[tags/great-leftovers|#great-leftovers]]
+- [[tags/meal-prep]]
+- [[tags/make-ahead]]
+- [[tags/freezer-friendly]]
+- [[tags/great-leftovers]]
 
 ### Time & effort
-- [[tags/quick|#quick]]
-- [[tags/weeknight|#weeknight]]
-- [[tags/time-intensive|#time-intensive]]
+- [[tags/quick]]
+- [[tags/weeknight]]
+- [[tags/time-intensive]]
 
 ### Dietary
-- [[tags/vegetarian|#vegetarian]]
-- [[tags/high-protein|#high-protein]]
-- [[tags/gluten-free|#gluten-free]]
-- [[tags/dairy-free|#dairy-free]]
+- [[tags/vegetarian]]
+- [[tags/high-protein]]
+- [[tags/gluten-free]]
+- [[tags/dairy-free]]
 
 ### Vibes
-- [[tags/spicy|#spicy]]
-- [[tags/salad|#salad]]
+- [[tags/spicy]]
+- [[tags/salad]]
 
 ---
 
